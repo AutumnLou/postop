@@ -1,6 +1,9 @@
 # postop
 Post-operative prediction of BCR-free survival in PCa using ML method and mRNA data
 
+## DOI
+[![DOI](https://zenodo.org/badge/858065836.svg)](https://zenodo.org/doi/10.5281/zenodo.13790146)
+
 ## Key
 Models:
 
